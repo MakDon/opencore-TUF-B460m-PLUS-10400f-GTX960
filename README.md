@@ -2,6 +2,6 @@
 
 for macos High Sierra 10.13.6
 
-CPU: 10400f
-Graph: Graphics card
-motherborad: TUF Gaming B460-PLUS
+CPU: 10400f    
+Graph: Graphics card    
+motherborad: TUF Gaming B460-PLUS    
